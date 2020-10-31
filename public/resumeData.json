@@ -54,35 +54,44 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "100%",
+        "icon": "fab fa-react"
       },
       {
         "name": "ES6",
-        "level": "95%"
+        "level": "95%",
+        "icon": "fa fa-javascript"
+
       },
       {
         "name": "CSS",
-        "level": "100%"
+        "level": "100%",
+        "icon": "fa fa-css3"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "60%",
+        "icon": "fa fa-github"
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "55%",
+        "icon": "fab fa-figma"
       },
       {
         "name": "HTML5",
-        "level": "100%"
+        "level": "100%",
+        "icon": "fa fa-html5"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "80%",
+        "icon": "faCoffee"
       },
       {
         "name": "NodeJs",
-        "level": "50%"
+        "level": "50%",
+        "icon": "fab fa-node-js"
       }
     ]
   },
@@ -118,6 +127,22 @@
       {
         "text": "That Naiem must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  },
+  "blog" : {
+    "blog": [
+      {
+        "title": "javascript Array",
+        "post": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio, eos!"
+      },
+      {
+        "title": "React Hooks",
+        "post": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio, eos!"
+      },
+      {
+        "title": "Nodejs CURD operation",
+        "post": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio, eos!"
       }
     ]
   }
